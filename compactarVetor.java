@@ -30,5 +30,7 @@ public class compactarVetor {
     // Impressão do vetor compactado
     System.out.println("Vetor compactado:");
     System.out.println(Arrays.toString(vetor));
+
+    scanner.close();
   }
 }

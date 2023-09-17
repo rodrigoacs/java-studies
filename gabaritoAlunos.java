@@ -36,5 +36,7 @@ public class gabaritoAlunos {
     System.out.println("Nota do Aluno2: " + acertos[1]);
     System.out.println("Nota do Aluno3: " + acertos[2]);
     System.out.println("Notas acima da media: " + acimaDaMedia);
+
+    teclado.close();
   }
 }

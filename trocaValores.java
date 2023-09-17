@@ -26,6 +26,6 @@ public class trocaValores {
     for (int i = 0; i < n.length; i++) {
       System.out.printf("N[%d] = %d\n", i, n[i]);
     }
-
+    scan.close();
   }
 }
