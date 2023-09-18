@@ -32,7 +32,6 @@ public class terminal {
           break;
       }
     }
-
     in.close();
   }
 
